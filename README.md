@@ -1,6 +1,6 @@
 # Sprunki Brud Edition
 
-![Sprunki Brud Edition Banner](public/images/thumbnails/sprunki-brud-edition.png)
+![Sprunki Brud Edition Banner](sprunki-brud-edition.png)
 
 A horror-themed music creation game where Simon has devoured everything in sight! Experience a unique twist on the Sprunki series where every interface element bears Simon's bite marks.
 
